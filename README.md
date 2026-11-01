@@ -54,7 +54,7 @@ javac week03/ItemCost.java
 java -cp week03 ItemCost
 
 Tools Used:
-Language: Java JDK 17+
+Language: Java JDK 21+
 IDE: Visual Studio Code
 Version Control: Git and GitHub
 
