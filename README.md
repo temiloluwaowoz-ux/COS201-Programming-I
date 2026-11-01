@@ -35,24 +35,23 @@ java -cp week02 HelloWorld
 
 WEEK 03 - Variables, Data Types and User Input (Page 38)
 
-1. http://SimpleCalculator.java
-Function: Basic arithmetic + - _ /
+1. File: SimpleCalculator.java
+Function: Basic arithmetic + - * /
 How to Run:
 javac week03/SimpleCalculator.java
 java -cp week03 SimpleCalculator
 
-2. http://AverageCalculator.java
+2. File: AverageCalculator.java
 Function: Total and average of 3 scores
 How to Run:
 javac week03/AverageCalculator.java
 java -cp week03 AverageCalculator
 
-3. http://ItemCost.java
-Function: Calculates quantity _ unitPrice
+3. File: ItemCost.java
+Function: Calculates quantity * unitPrice
 How to Run:
 javac week03/ItemCost.java
 java -cp week03 ItemCost
-
 Tools Used:
 Language: Java JDK 21+
 IDE: Visual Studio Code
