@@ -8,7 +8,7 @@ Department: Computer Science
 Course: COS 201 - Computer Programming I
 
 Repository Link:
-https://github.com/temiloluwasowos-ux/COS201-Programming-I
+https://github.com/temiloluwaowoz-ux/COS201-Programming-I
 
 Repository Structure:
 COS201-Programming-I/
